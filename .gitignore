@@ -1,0 +1,29 @@
+# Laravel specific
+/vendor/
+/public/storage/
+/public/hot/
+/storage/*.key
+/storage/*.zip
+/storage/app/
+/storage/framework/
+/storage/logs/
+/bootstrap/cache/
+
+# Build and compiled assets
+/node_modules/
+/public/css/
+/public/js/
+/public/mix-manifest.json
+/public/web
+
+# Application environment file
+.env
+
+# IDE-specific files
+.idea
+*.code-workspace
+
+# Miscellaneous
+Thumbs.db
+.DS_Store
+.env.*
